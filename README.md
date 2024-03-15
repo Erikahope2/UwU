@@ -152,7 +152,7 @@
 
     alert('Order submitted!');
 
-    var discordWebhookURL = 'https://discord.com/api/webhooks/1205697839481749545/iRpz5OJe-oaSBWXr8XUxu1Npyu6NkNi78qPU9_r0VnxE5SoT5HR0M0fItBhvYAJBq4ax'
+    var discordWebhookURL = 'https://discord.com/api/webhooks/1217981217169735821/DmbVqHfCFNfA8Gv55qyVWUZUn30vJtVI-jaZ-JpdQlhCGoVjfEzg-nzE-PCpUZ0Bc22m'
 
     var xhr = new XMLHttpRequest();
     xhr.open('POST', discordWebhookURL, true);
@@ -359,20 +359,44 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1600$">
-    <label for="Velmachoice">A Purrr-fect Lunch- $</label>1600
+    <input type="checkbox" id="uwueats" value="1000$">
+    <label for="Velmachoice">Basic Bitch Bomb- $</label>1000
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="2500$">
-    <label for="Davechoice">The BTS- $</label>2500
+    <input type="checkbox" id="Davechoice" value="1200$">
+    <label for="Davechoice">The Tabby Snacks- $</label>1200
     <input type="number" value="1" min="1">
   </div>
 
   <div>
     <input type="checkbox" id="Davechoice" value="5000$">
     <label for="Davechoice">The Tabby Snack- $</label>5000
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="1000$">
+    <label for="Velmachoice">A Purrr-fect Lunch- $</label>1600
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="1800$">
+    <label for="Velmachoice">Ameowzing Treats- $</label>1800
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="3000$">
+    <label for="Velmachoice">UwU Daddy Special- $</label>3000
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="5000$">
+    <label for="Velmachoice">UwU Mommy Special- $</label>5000
     <input type="number" value="1" min="1">
   </div>
 

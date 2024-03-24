@@ -359,38 +359,32 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Basic Bitch Bomb- $</label>1000
+    <input type="checkbox" id="uwueats" value="1500$">
+    <label for="Velmachoice">Basic Bitch Bomb- $</label>1500
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="1200$">
-    <label for="Davechoice">The Tabby Snacks- $</label>1200
+    <input type="checkbox" id="Davechoice" value="1800$">
+    <label for="Davechoice">The Tabby Snacks- $</label>1800
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">The Tabby Snack- $</label>5000
+    <input type="checkbox" id="uwueats" value="2200$">
+    <label for="Velmachoice">A Purrr-fect Lunch- $</label>2200
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">A Purrr-fect Lunch- $</label>1600
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">Ameowzing Treats- $</label>2500
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="uwueats" value="1800$">
-    <label for="Velmachoice">Ameowzing Treats- $</label>1800
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="uwueats" value="3000$">
-    <label for="Velmachoice">UwU Daddy Special- $</label>3000
+    <input type="checkbox" id="uwueats" value="4000$">
+    <label for="Velmachoice">UwU Daddy Special- $</label>4000
     <input type="number" value="1" min="1">
   </div>
 

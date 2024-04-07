@@ -489,8 +489,8 @@ function resetCalculator() {
   <h3> Discount Items</h3> 
 
 <div>
-  <input type="checkbox" id="50off" value="-40%">
-  <label for="50off">Employee Discount - 40% off</label>
+  <input type="checkbox" id="40off" value="-40%">
+  <label for="40off">Employee Discount - 40% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
 
@@ -501,8 +501,8 @@ function resetCalculator() {
 </div>
 
 <div>
-  <input type="checkbox" id="25off" value="-15%">
-  <label for="25off">Mechs - 15% off</label>
+  <input type="checkbox" id="15off" value="-15%">
+  <label for="15off">Mechs - 15% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
 
